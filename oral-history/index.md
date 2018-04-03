@@ -5,26 +5,19 @@
               </div>
             </div>
 
+------
 
+The AIDS epidemic that struck the United States beginning from the 1960's has had a long lasting impact on the lives of those in the LGBTQ community nationwide. As mentioned in the video accompanying the audio-clip, AIDS affected an overwhelming majority of gay men between the ages of 25 to 44, although it was also associated with prostitution and drug use at the time [^first]. The lack of government support for those diagnosed and slow processing for research and funding is very telling of the stigmatization queer people faced at this time and continue to face today. To combat this issue, Buyers Clubs sprung across the country, providing people with alternative ways to access life-saving medications before being approved in the U.S [^second]. Many attribute advancements in AIDS treatment to the pressure exerted by Buyers Clubs and activist groups such as the Aids Coalition to Unleash Power (ACT UP), inspiring biographical films and books. Christopher Harris offers us insight to what living as a gay man diagnosed with AIDS during this time was like, displaying the lengths people had to go to find medications and medical validation. His oral record of him discovering the Buyers Club in Atlanta is telling of the socio-political climate at the time, as young gay men stood together to fight against stigma and death. 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+Harris remembers when he was first diagnosed, saying that he and his partner "had not been together very long and [he] was feeling ill" (<a href="#" onclick="javascript:seek(50)"> seek to 50</a>). AIDS is a dangerous disease not only because of it's effects on the human body, but because of how quickly and silently it can spread within a population. Young gay men were the most affected because of the nature of AIDS as a disease transmitted through bodily fluids and the lack of education on safer-sex practices in the gay community [^third]. Stigmatization therefore not only made it harder for men to get diagnosed and come out to their doctors if they felt they were exhibiting symptoms, it also made them more susceptible to contracting the disease in the first place.  To add on top of that, very little was known about AIDS until much later into the 1990's, such as the fact that it can lay dormant for years before a person begins exhibiting symptoms. Gay men during the worst of the epidemic were spreading the disease before they even knew they were carrying it.
 
-    Footnote 1 link[^first].
+After getting diagnosed, Harris continues his account by telling us about the trouble in accessing medications, as his doctor told him "there were some drugs out there…but they weren't available," and following by giving him a number to "guys who had just begun …to distribute these medications that they were getting on the black market" (<a href="#" onclick="javascript:seek(135)"> seek to 1:52</a>). Again, as mentioned in the video below the audio-clip, AZT is the "new drug" that his doctor was referring to, and although it's now regarded as a drug that continues to save thousands of people's lives, it was only available to patients who were enrolled in clinical trials [^fourth]. Because of this impossible access and slow government processing to get medications approved, black market organizations called Buyers Clubs emerged as a saving grace for those looking to buy anti-viral drugs illegally imported from places like Mexico, Japan and Netherlands [^fifth]. This is particularly interesting in historical context because of the way in which stigmatization and lack of progressive rights for LGBTQ folks at the time created an environment where illegal transactions were necessary for survival [^sixth]. If we look at AIDS today, there are several organizations, campaigns and resources available for people diagnosed to seek treatment and community support.
 
-    Footnote 2 link[^second].
+Overall this oral history account is essential to understanding the struggle the LGBTQ community has faced in the United States, and how stigmatization has affected the health of members of the community. Having accounts like these public on the web is necessary so that we preserve the memory of those who were at the front lines saving lives and pushing for change and combatting homophobia in governance and policy making so that history does not repeat itself again. AIDS continues to be a sever issue impacting the lives of millions across the globe, and it still carries a lot of stigma, particularly for gay men, drug users and sex workers. This account is not only special because of the story Christopher Harris tells us, it is also invaluable in that there are very little survivors within the gay community who were there when the epidemic took place. Harris survived because of the resilience of the queer community, which is something that history has shown time and time again.  
 
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^first]:https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5021a2.htm
+[^second]:https://www.washingtonpost.com/news/wonk/wp/2013/12/10/what-dallas-buyers-club-got-wrong-about-the-aids-crisis/?utm_term=.09d94352f090
+[^third]:https://aidsinfo.nih.gov/understanding-hiv-aids/fact-sheets/25/81/hiv-and-gay-and-bisexual-men
+[^fourth]:https://theconversation.com/how-the-dallas-buyers-club-changed-hiv-treatment-in-the-us-22664
+[^fifth]:https://theconversation.com/how-the-dallas-buyers-club-changed-hiv-treatment-in-the-us-22664
+[^sixth]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835402/
